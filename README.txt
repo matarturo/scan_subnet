@@ -7,9 +7,6 @@ See LICENSE.TXT for details.
 
 # Este script escrito en Python analiza segmentos red para validar los hosts activos
 
-Es importante el mantenimiento periódico de estos equipos ya que los archivos logs del entorno GNU/Linux DebianOS 
-crecen rápidamente y se pueden llenar los discos duros generando problemas de almacenamiento de información.
-
 # Requisitos 
 
 Nmap => apt install nmap
